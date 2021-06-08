@@ -1,0 +1,1 @@
+call curdemo(2);
